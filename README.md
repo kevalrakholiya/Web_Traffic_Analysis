@@ -117,9 +117,3 @@ This project demonstrates the ability to:
 - AI-driven anomaly detection for traffic patterns  
 
 ---
-
-## 📷 Dashboard Preview
-
-![Dashboard Overview](./report1.png)  
-![Dashboard Overview](./report2.png)  
-![Dashboard Overview](./report3.png)  
